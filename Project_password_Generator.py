@@ -1,0 +1,8 @@
+print("Welcome to the Random Password Generator")
+letters=int(input("How many letters would you like to have in your password"))
+print(letters)
+symbols=int(input("How many symbols would you like to have in your password"))
+print(symbols)
+numbers=int(input("How many numbers would you like to have in your password"))
+print(numbers)
+print(random())
